@@ -13,7 +13,8 @@ The Amazon Vine program allows manufacturers to pay a fee and provide products t
  - Written Report of Analysis
 
 ### Resources
- - Data Sources: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+ - Data Sources: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt), [Amazon Baby Reviews dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Baby_v1_00.tsv.gz
+) 
  - Technology: AWS RDS, AWS S3, PySpark, pgAdmin, Google Colab
 
 ### Overview of Code
@@ -21,7 +22,7 @@ The Amazon Vine program allows manufacturers to pay a fee and provide products t
 
 ## Results
  
-### How many Vine vs Non-Vine reviews were there?
+### How many Vine vs non-Vine reviews were there?
 
 ### How many Vine vs non-Vine reviews were 5-stars? 
  
