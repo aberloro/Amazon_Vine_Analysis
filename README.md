@@ -27,19 +27,21 @@ Code for Deliverable 2, Bias of Amazon Vine Reviews, was also written in Google 
  
 ### A Look At Vine (paid) Reviews
 
--- insert image for vine analysis --
+![vine_analysis](https://user-images.githubusercontent.com/93740725/162853331-21f9a39b-6530-4ce1-be9d-41165b7d28fb.png)
+
 From the screen grab above, we see that there were a total of 463 paid Vine reviews, 43.63% or 202 of which were 5-Stars.  
+
 
 ### A Look at Non-Vine (unpaid) Reviews
 
--- insert non-vine analysis image --
+![non_vine_analysis](https://user-images.githubusercontent.com/93740725/162853352-176a5203-bb35-4ff1-8a6a-320a8f77cc51.png)
 
 From the screen grab above, we see that there were 25,094 unpaid reviews, 47.95% or 12,033 of which were 5-Stars.
 
 ### Paid vs Unpaid 
  - There were significantly more unpaid reviews than paid Vine reviews: 25k unpaid to 463 paid.
  - There were significantly more unpaid 5-Star reviews than paid 5-Star reviews: 12k unpaid to 202 paid 5-Star reviews.
- - There were fewer 5-star reviews for the paid-vine group than the unpaid group: 43.63% paid to 47.95% unpaid 5-star reviews.  
+ - There were fewer 5-star reviews per-capita for the paid-vine group than the unpaid group: 43.63% paid to 47.95% unpaid 5-star reviews.  
 
 
 ## Summary 
